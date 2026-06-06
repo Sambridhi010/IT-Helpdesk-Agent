@@ -1,0 +1,26 @@
+COMPANY IT HANDBOOK
+===================
+
+VPN
+---
+We use Cisco AnyConnect VPN. Download it from the internal portal at http://itportal.company.com/vpn. Use your company email and Windows password to log in. If you get an error, contact IT with your employee ID.
+
+WIFI
+----
+Company Wi-Fi network name is "CorpNet-Secure". Password is issued on your first day by HR. If you forget it, visit the IT helpdesk or email it@company.com. Do not use "CorpNet-Guest" for work purposes.
+
+PASSWORD RESET
+--------------
+To reset your Windows password, visit http://itportal.company.com/resetpassword. You will need your employee ID and registered personal email. Passwords must be at least 12 characters with one uppercase, one number, and one symbol. Passwords expire every 90 days.
+
+PRINTER
+-------
+Office printers are set up automatically when you connect to CorpNet-Secure. If your printer shows offline, restart the print spooler: open Services, find "Print Spooler", right click and restart. Printer model is HP LaserJet Pro M404dn.
+
+SOFTWARE INSTALLATION
+---------------------
+All software must be installed through the Company Portal app on your desktop. Do not download software from the internet. If the software you need is not in the portal, submit a request at http://itportal.company.com/softwarerequest.
+
+LAPTOP ISSUES
+-------------
+For hardware issues, submit a ticket at http://itportal.company.com/tickets. For urgent issues, call the IT helpdesk at ext. 1234. Loaner laptops are available from the IT office on Floor 2.
